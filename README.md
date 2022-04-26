@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Murali Karthik!
+Want to grow and Excel in the field of AI
  
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
 
