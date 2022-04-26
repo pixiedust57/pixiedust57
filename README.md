@@ -1,5 +1,5 @@
 <h1 align="center">
-Want to grow and Excel in the field of AI
+Hi, I'm Murali Karthik!
  
  <!--<img src="https://komarev.com/ghpvc/?username=I-am-vishalmaurya&label=Profile%20Views&color=0e75b6&style=flat" align='right' alt="vishalmaurya" />-->
 
@@ -24,15 +24,6 @@ Want to grow and Excel in the field of AI
   
 - ⚡ Fun fact: Me gusta dormir.
  
- <h2 >My Accomplishments </h2>
-
-- :star: Developed an Online Meeting Application through jitsiSDK - Android Studio - Firebase. 
-  
-- :star: Developed an Application that organizes Zoom meetings in Events View - React Native - nodejs - MongoDB [Cloud]. 
-  
-- :star: Worked with Zoom API by calling/sending requests through Postman.
-  
-- :star: Designed FrontEnd of an Video Calling Application which matches ios design. 
   
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
@@ -56,11 +47,6 @@ Want to grow and Excel in the field of AI
 <a href = 'https://www.linkedin.com/in/murali-karthick-b55301208/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a>  
 <a href = 'https://www.twitter.com/MuraliKarthik67'> <img width = '32px' align= 'center'  margin = '10px' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/twitter.svg"/></a> 
  
-
- <h2> Contact </h2>
- 
-- Email : maichelkarthikeyan@gmail.com
-- Contact no. : +917204214067
 
 
 <br>
