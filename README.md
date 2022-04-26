@@ -23,6 +23,17 @@ Hi, I'm Murali Karthik!
 - 💬 Ask me about Reactjs, React-Native, C, C++, Java, Python, JavaScript, nodejs
   
 - ⚡ Fun fact: Me gusta dormir.
+ 
+ <h2 >My Accomplishments </h2>
+
+- :star: Developed an Online Meeting Application through jitsiSDK - Android Studio - Firebase. 
+  
+- :star: Developed an Application that organizes Zoom meetings in Events View - React Native - nodejs - MongoDB [Cloud]. 
+  
+- :star: Worked with Zoom API by calling/sending requests through Postman.
+  
+- :star: Designed FrontEnd of an Video Calling Application which matches ios design. 
+  
 
 <h2> Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> 
   
