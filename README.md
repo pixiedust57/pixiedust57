@@ -14,13 +14,13 @@ Hi, I'm Murali Karthik!
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on Full Stack development
+- 🔭 I’m currently working on AI/ML and Data Analytics
   
-- 🌱 I’m currently learning Cloud Computing & Machine Learning
+- 🌱 I’m currently learning to play guitar and Regression
   
-- 👯 I’m looking to collaborate on Cloud Applications testing & Full Stack Development
+- 👯 I’m looking to collaborate on AI/ML and Full Stack integration
   
-- 💬 Ask me about Reactjs, React-Native, C, C++, Java, Python, JavaScript, nodejs
+- 💬 Ask me about Python, Quasar, React-Native, C, C++, Java, Vuejs, JavaScript, nodejs
   
 - ⚡ Fun fact: Me gusta dormir.
  
